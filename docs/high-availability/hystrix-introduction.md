@@ -1,4 +1,4 @@
-## 用 Hystrix 构建高可用服务架构【xxxx】
+## 用 Hystrix 构建高可用服务架构【xxxxxxxxxxx】
 
 参考 [Hystrix Home](https://github.com/Netflix/Hystrix/wiki#what)。
 
